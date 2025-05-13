@@ -28,7 +28,7 @@ public class RentalService {
         return "Bonjour";
     }
 
-    @GetMapping("/cars")
+    @GetMapping("/carsSSSSSSSSSSSSSSSSSSSSSSSSS")
     public List<Car> getCars(){
         return cars;
     }
